@@ -8,7 +8,7 @@ You can download the dataset from the links below.
 # Dataset in this project  
 1. BCI competiton IV dataset I  
 http://www.bbci.de/competition/iv/  
-2.SEED dataset  
+2. SEED dataset  
 http://bcmi.sjtu.edu.cn/home/seed/
 
 
