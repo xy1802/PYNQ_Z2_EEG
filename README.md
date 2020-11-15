@@ -6,7 +6,7 @@ Attention that I use PyTorch on PYNQ_z2, you need to make it on ARM before you u
 You can download the dataset from the links below.
 
 # Dataset in this project
-1. BCI competiton IV dataset I
+1. BCI competiton IV dataset I  
 http://www.bbci.de/competition/iv/   
 2.SEED dataset  
 http://bcmi.sjtu.edu.cn/home/seed/
